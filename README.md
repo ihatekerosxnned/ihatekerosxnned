@@ -8,6 +8,8 @@
 - PHP
 - Express
 - Javascript
-- 
+- 😩My Weaknesses are
+- Her Smile🥹
+
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
