@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ihatekerosxnned" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384005.png" alt="ihatekerosxnned" height="35" width="35" /></a>
-<a href="https://instagram.com/grimmyworld" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384005.png" alt="grimmyworld" height="35" width="35" /></a>
+<a href="https://instagram.com/grimmyworld" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384015.png" alt="grimmyworld" height="35" width="35" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
